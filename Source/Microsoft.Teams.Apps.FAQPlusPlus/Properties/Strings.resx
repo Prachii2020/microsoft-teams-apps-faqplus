@@ -348,7 +348,7 @@ I am your friendly Q&amp;A bot that helps you provide support to people who inte
     <comment>This value represents the SME Ticket in the Unassigned status</comment>
   </data>
   <data name="AskAnExpertSubheaderText" xml:space="preserve">
-    <value>Someone from CELA will reach out to you soon.   If you don’t hear back you can always contact your CELA directly here.</value>
+    <value>Someone from CELA will reach out to you soon.If you don’t hear back you can always contact your CELA directly here.</value>
     <comment>Ask en expert card subtitle text:lets the user know that SME team member can directly chat with the requester.</comment>
   </data>
   <data name="DescriptionFact" xml:space="preserve">
