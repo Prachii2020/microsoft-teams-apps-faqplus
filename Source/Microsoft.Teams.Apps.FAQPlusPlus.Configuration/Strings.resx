@@ -128,12 +128,12 @@ My key features:
     <comment>Default help static tab text to be stored in configuration app</comment>
   </data>
   <data name="DefaultWelcomeMessage" xml:space="preserve">
-    <value>Hi, I'm your friendly Q&amp;A bot. You can ask me questions, and I'll do my best to answer. If I can't help, I'll connect you to an expert.
+       <value>Hello,  
+I’m your friendly CELA Bot.  You can ask me any questions for CELA, and I’ll do my best to answer.  If I can’t help, I’ll connect you with someone in CELA. 
 
-You can ask the following questions:
-* How do you work?
-* Which benefits are available?
-* What things are available here right now?</value>
+I should be used for FAQ-type questions for which I can provide basic answers and links to CELA reference materials. 
+
+You should NOT include any confidential information in your questions. If you need to have a privileged discussion about a sensitive matter, you should contact your frontline CELA.</value>
     <comment>Default welcome message text to be stored in configuration app</comment>
   </data>
   <data name="HelpTabTextToolTipHoverMessage" xml:space="preserve">
