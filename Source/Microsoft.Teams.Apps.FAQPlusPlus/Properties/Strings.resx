@@ -122,15 +122,15 @@
     <comment>Ask an expert placeholder text.</comment>
   </data>
   <data name="AskAnExpertTitleText" xml:space="preserve">
-    <value>Ask an expert</value>
+    <value>Ask my CELA</value>
     <comment>Title of the ask an expert card.</comment>
   </data>
   <data name="AskAnExpertText2" xml:space="preserve">
-    <value>...If my answer isn't satisfactory... I'll connect you to an expert.</value>
+   <value>..I’ll connect you with someone in CELA..</value>
     <comment>Helps the user in understanding there is an expert team to connect to.</comment>
   </data>
   <data name="FeedbackText1" xml:space="preserve">
-    <value>Tell my team of experts how I'm doing so they can help me improve.</value>
+   <value>Tell CELA how I’m doing so they can help me improve.</value>
     <comment>Text suggests that user is invited to share his feedback on his experience using bot.</comment>
   </data>
   <data name="FunctionCardText1" xml:space="preserve">
@@ -260,7 +260,7 @@ I am your friendly Q&amp;A bot that helps you provide support to people who inte
     <comment>Title text of share feedback user carousel card.</comment>
   </data>
   <data name="AskAnExpertDisplayText" xml:space="preserve">
-    <value>Ask an expert</value>
+    <value>Ask my CELA</value>
     <comment>Ask an expert display text: text sent to the bot when ask an expert button is clicked.</comment>
   </data>
   <data name="ShareFeedbackDisplayText" xml:space="preserve">
@@ -384,7 +384,7 @@ I am your friendly Q&amp;A bot that helps you provide support to people who inte
     <comment>Title fact is used to show the title entered by the user for his inquiry.</comment>
   </data>
   <data name="TitleRequiredText" xml:space="preserve">
-    <value>Title (Required)</value>
+    <value>Subject (Required)</value>
     <comment>Title(Required): label of the title text box.</comment>
   </data>
   <data name="NotHelpfulRatingText" xml:space="preserve">
